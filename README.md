@@ -3,9 +3,9 @@
 
  
 > - 👩🏻‍💻 Sou Leonardo Mayoral. 
-> - 💻 Estudante de engenharia da computação.
-> - 🖨 Trabalho em um Fab Lab
-> - 💾 Estou me desenvolvendo em front-end.
+> - 💻 Estudante de Engenharia da Computação.
+> - 🖨  Atualmente trabalho em um Fab LAB
+> - 💾 Estou me aperfeiçoando em Front-End.
 
 
 
