@@ -3,7 +3,7 @@
 
  
 > - 💻 Estudante de Engenharia da Computação.
-> - 🖨  Atualmente trabalho com React Js e Typescript.
+> - 🖨  Atualmente trabalhando com React Js e Typescript.
 
 
 
