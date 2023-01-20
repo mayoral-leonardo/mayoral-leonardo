@@ -3,8 +3,7 @@
 
  
 > - 💻 Estudante de Engenharia da Computação.
-> - 🖨  Atualmente trabalho com desenvolvimento Front-End.
-> - 💾 Estou me aperfeiçoando em Front-End.
+> - 🖨  Atualmente trabalho com React Js e Typescript.
 
 
 
