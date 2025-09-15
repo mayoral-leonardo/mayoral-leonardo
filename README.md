@@ -1,26 +1,26 @@
-## Hello World, eu sou o Leonardo.
+## Hello, I'm Leonardo
 
+> - 🎓 Computer Engineer
+> - 💻 Full Stack Developer — 4+ years **React | TypeScript | Node.js | Nest.js | Next.js | Prisma**
 
- 
-> - 💻 Computer Engineer.
-> - 🖨  Full Stack Developer — 4+ years React | TypeScript | Node.js | Nest.js | Next.js | Prisma.
-
- <div>
- <br></br>
+<div align="center">
   <a href="https://github.com/mayoral-leonardo">
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="Nest.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
+  </a>
 </div>
 
-<div> 
- <br></br>
-  <a href = "mailto:mayoral.leonardo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=""></a>
-  <a href="https://www.linkedin.com/in/leonardo-mayoral-734415176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a> 
-
-
-
+<div align="center"> 
+  <br>
+  <a href="mailto:mayoral.leonardo99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-mayoral-734415176/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
