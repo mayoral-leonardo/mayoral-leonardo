@@ -9,8 +9,6 @@
     <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
     <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
     <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
-    <img align="center" alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/techicons/devicons/master/icons/nestjs/nestjs-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
-    <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
     <img align="center" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="margin: 0 10px; filter: drop-shadow(2px 2px 2px gray); transition: transform 0.3s;">
   </a>
 </div>
