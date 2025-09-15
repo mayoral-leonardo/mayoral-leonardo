@@ -1,11 +1,9 @@
 ## Hello, I'm Leonardo
 
-<div style="margin-bottom: 15px;">
-> - 🎓 Computer Engineer  
+> - 🎓 Computer Engineer
 > - 💻 Full Stack Developer — 4+ years **React | TypeScript | Node.js | Nest.js | Next.js | Prisma**
-</div>
 
-<div style="margin-bottom: 15px;">
+<div style="margin-top: 10px;">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin: 0 10px 10px 0; filter: drop-shadow(2px 2px 2px gray);">
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin: 0 10px 10px 0; filter: drop-shadow(2px 2px 2px gray);">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 0 10px 10px 0; filter: drop-shadow(2px 2px 2px gray);">
@@ -13,7 +11,7 @@
   <img alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="margin: 0 10px 10px 0; filter: drop-shadow(2px 2px 2px gray);">
 </div>
 
-<div style="margin-top: 15px;">
+<div style="margin-top: 20px;">
   <a href="mailto:mayoral.leonardo99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px 10px 5px 0;">
   </a>
