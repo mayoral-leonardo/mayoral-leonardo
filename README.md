@@ -2,8 +2,8 @@
 
 
  
-> - 💻 Estudante de Engenharia da Computação.
-> - 🖨  Atualmente trabalhando com React Js e Typescript.
+> - 💻 Computer Engineer.
+> - 🖨  Full Stack Developer — 4+ years React | TypeScript | Node.js | Nest.js | Next.js | Prisma.
 
  <div>
  <br></br>
